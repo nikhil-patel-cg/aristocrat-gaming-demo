@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://author-p34703-e1096898.adobeaemcloud.com/bin/franklin.delivery//nikhil-patel-cg/aristocrat-gaming-demo/main"
     type: "markup"
     suffix: ".html"
