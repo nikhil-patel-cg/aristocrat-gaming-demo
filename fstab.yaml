@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p34703-e1096898.adobeaemcloud.com/bin/franklin.delivery//nikhil-patel-cg/aristocrat-gaming-demo/main"
+    url: "https://author-p34703-e1096898.adobeaemcloud.com/bin/franklin.delivery/nikhil-patel-cg/aristocrat-gaming-demo/main"
     type: "markup"
     suffix: ".html"
