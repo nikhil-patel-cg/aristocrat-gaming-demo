@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aristocrat-gaming-demo/:/",
-    "/content/aristocrat-gaming-demo/configuration:/.helix/config.json",
-    "/content/aristocrat-gaming-demo/metadata:/metadata.json"
+    "/content/nikhil-patel-eds/:/",
+    "/content/nikhil-patel-eds/configuration:/.helix/config.json",
+    "/content/nikhil-patel-eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aristocrat-gaming-demo/"
+    "/content/nikhil-patel-eds/"
   ]
 }
